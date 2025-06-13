@@ -1,0 +1,2 @@
+# ZoomAttendanceBot
+Zoom Attendance Emailer
